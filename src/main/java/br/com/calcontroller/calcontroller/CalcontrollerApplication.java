@@ -9,7 +9,6 @@ public class CalcontrollerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CalcontrollerApplication.class, args);
 
-		System.out.println("hELLOW WORD SPRING");
 	}
 
 }
